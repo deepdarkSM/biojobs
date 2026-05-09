@@ -14,7 +14,7 @@ SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 client = Anthropic(api_key=ANTHROPIC_API_KEY)
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-st.set_page_config(page_title="바이오 취업 플랫폼", page_icon="🧬", layout="wide")
+st.set_page_config(page_title="바이오 취업 플랫폼", layout="wide")
 
 # CSS 스타일
 st.markdown("""
@@ -105,7 +105,7 @@ if "session_id" not in st.session_state:
 
 # 사이드바
 with st.sidebar:
-    st.markdown("### 🧬 바이오 취업 플랫폼")
+    st.markdown("###  바이오 취업 플랫폼")
     st.caption(f"총 {len(df)}개 공고")
     st.divider()
 
@@ -131,7 +131,7 @@ with st.sidebar:
 
 
 # 메인
-st.markdown("# 🧬 바이오 취업 플랫폼")
+st.markdown("# 바이오 취업 플랫폼")
 st.caption(f"마지막 업데이트: {df['crawled_at'].max()}")
 
 # AI 분석 섹션
