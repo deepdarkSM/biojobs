@@ -2,12 +2,17 @@ import streamlit as st
 import json
 import pandas as pd
 from anthropic import Anthropic
-from dotenv import load_dotenv
 import os
 from datetime import datetime
+from supabase import create_client
 
-load_dotenv(dotenv_path=r"C:\Users\my coms\Desktop\biojobs\.env", override=True)
-client = Anthropic()
+# 환경변수 로드
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+SUPABASE_URL = os.environ.get("SUPABASE_URL")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
+
+client = Anthropic(api_key=ANTHROPIC_API_KEY)
+supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 st.set_page_config(page_title="바이오 취업 플랫폼", page_icon="🧬", layout="wide")
 
