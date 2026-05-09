@@ -19,13 +19,8 @@ st.set_page_config(page_title="바이오 취업 플랫폼", page_icon="🧬", la
 # CSS 스타일
 st.markdown("""
 <style>
-    /* 전체 배경 */
     .stApp { background-color: #f8fafb; }
-    
-    /* 헤더 */
     h1 { color: #1a1a2e; font-size: 2rem !important; font-weight: 700 !important; }
-    
-    /* 공고 카드 */
     .job-card {
         background: white;
         border-radius: 12px;
@@ -33,9 +28,7 @@ st.markdown("""
         margin-bottom: 12px;
         border: 1px solid #eef0f3;
         box-shadow: 0 1px 4px rgba(0,0,0,0.05);
-        transition: box-shadow 0.2s;
     }
-    .job-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
     .job-title { font-size: 15px; font-weight: 600; color: #1a1a2e; margin-bottom: 6px; }
     .job-meta { font-size: 12px; color: #6b7280; }
     .job-tag {
@@ -50,8 +43,6 @@ st.markdown("""
     }
     .job-tag.green { background: #f0fdf4; color: #16a34a; }
     .job-tag.orange { background: #fff7ed; color: #ea580c; }
-    
-    /* AI 분석 박스 */
     .ai-box {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         border-radius: 16px;
@@ -67,24 +58,6 @@ st.markdown("""
         color: #1a1a2e;
         border-left: 4px solid #667eea;
     }
-    
-    /* 히스토리 카드 */
-    .history-card {
-        background: white;
-        border-radius: 10px;
-        padding: 14px 16px;
-        margin-bottom: 8px;
-        border: 1px solid #eef0f3;
-        font-size: 13px;
-        cursor: pointer;
-    }
-    .history-date { font-size: 11px; color: #9ca3af; margin-bottom: 4px; }
-    .history-preview { color: #374151; font-weight: 500; }
-    
-    /* 사이드바 */
-    .css-1d391kg { background-color: #ffffff; }
-    
-    /* 버튼 */
     .stButton > button {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
@@ -92,12 +65,6 @@ st.markdown("""
         border-radius: 8px;
         padding: 8px 20px;
         font-weight: 500;
-    }
-    .stButton > button:hover { opacity: 0.9; }
-    
-    div[data-testid="stExpander"] {
-        border: none !important;
-        box-shadow: none !important;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -109,51 +76,59 @@ def load_jobs():
     with open('jobs.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
-# 대화 히스토리 로드/저장
-def load_history():
-    if os.path.exists('history.json'):
-        with open('history.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return []
 
-def save_history(background, result):
-    history = load_history()
-    history.insert(0, {
-        "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
-        "background": background,
-        "result": result
-    })
-    history = history[:20]  # 최근 20개만 유지
-    with open('history.json', 'w', encoding='utf-8') as f:
-        json.dump(history, f, ensure_ascii=False, indent=2)
+# 히스토리 로드/저장 (Supabase)
+def load_history():
+    try:
+        res = supabase.table("history").select("*").order("created_at", desc=True).limit(20).execute()
+        return res.data
+    except:
+        return []
+
+def save_history(session_id, background, result):
+    try:
+        supabase.table("history").insert({
+            "session_id": session_id,
+            "background": background,
+            "result": result
+        }).execute()
+    except:
+        pass
+
 
 jobs = load_jobs()
 df = pd.DataFrame(jobs)
+
+# 세션 ID 생성 (사용자 구분)
+if "session_id" not in st.session_state:
+    st.session_state.session_id = str(datetime.now().timestamp())
 
 # 사이드바
 with st.sidebar:
     st.markdown("### 🧬 바이오 취업 플랫폼")
     st.caption(f"총 {len(df)}개 공고")
     st.divider()
-    
+
     st.markdown("**🔍 필터**")
     source = st.selectbox("출처", ["전체"] + sorted(df['source'].unique().tolist()))
     edu_options = ["전체"] + sorted(df['company'].dropna().unique().tolist())
     edu = st.selectbox("학력", edu_options)
-    
+
     st.divider()
-    
+
     # 히스토리
-    st.markdown("**🕘 분석 히스토리**")
+    st.markdown("**🕘 내 분석 히스토리**")
     history = load_history()
-    
-    if not history:
+    my_history = [h for h in history if h.get('session_id') == st.session_state.session_id]
+
+    if not my_history:
         st.caption("아직 분석 기록이 없어요.")
     else:
-        for i, h in enumerate(history):
-            with st.expander(f"📄 {h['date']}"):
+        for h in my_history:
+            with st.expander(f"📄 {h['created_at'][:16]}"):
                 st.caption(f"배경: {h['background'][:50]}...")
                 st.markdown(h['result'])
+
 
 # 메인
 st.markdown("# 🧬 바이오 취업 플랫폼")
@@ -184,7 +159,7 @@ if st.button("✨ AI 분석 시작"):
                 summary = f"- {job['title']} ({job.get('company','')} {' '.join(job.get('tags',[])[:3])})"
                 job_summaries.append(summary)
             job_list_text = "\n".join(job_summaries)
-            
+
             response = client.messages.create(
                 model="claude-haiku-4-5",
                 max_tokens=1000,
@@ -205,10 +180,10 @@ if st.button("✨ AI 분석 시작"):
 4. 취업 조언: (2-3문장)"""
                 }]
             )
-            
+
             result = response.content[0].text
-            save_history(background, result)
-            
+            save_history(st.session_state.session_id, background, result)
+
             st.markdown('<div class="ai-result">', unsafe_allow_html=True)
             st.markdown(result)
             st.markdown('</div>', unsafe_allow_html=True)
@@ -236,7 +211,7 @@ st.caption(f"{len(filtered)}개 공고")
 # 공고 카드
 for _, job in filtered.iterrows():
     tags = job['tags'] if isinstance(job['tags'], list) else []
-    
+
     tag_html = ""
     if job['company']:
         tag_html += f'<span class="job-tag">{job["company"]}</span>'
@@ -248,11 +223,11 @@ for _, job in filtered.iterrows():
         tag_html += f'<span class="job-tag orange">{tags[2]}</span>'
     if len(tags) > 3:
         tag_html += f'<span class="job-tag">{tags[3]}</span>'
-    
+
     period_html = f'<span style="margin-left:8px;">📅 {job["period"]}</span>' if job['period'] else ''
     source_html = f'<span style="margin-left:8px;">📌 {job["source"]}</span>'
     link_html = f'<a href="{job["link"]}" target="_blank" style="float:right; background:linear-gradient(135deg,#667eea,#764ba2); color:white; padding:6px 16px; border-radius:8px; text-decoration:none; font-size:13px; font-weight:500;">지원하기</a>' if job['link'] else ''
-    
+
     st.markdown(f"""
     <div class="job-card">
         {link_html}
