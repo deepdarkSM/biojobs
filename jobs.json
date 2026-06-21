@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "company": "석사",
+    "title": "한국생명공학연구원 2026-2차 석사후연구원 채용공고",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4800만원 이상 ~ 4900만원 미만",
+      "생명과학 기타/의약학 기타/바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039285&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "한국생명공학연구원 2026-2차 박사후연구원 채용공고",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "5000만원 이상 ~ 5100만원 미만",
+      "생명과학 기타/바이오·의료융합 기타/의약학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039282&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "주식회사 백스다임 생성형 AI 알고리즘 설계 전문가 및 계산 화학 전문가 모집",
+    "period": "",
+    "tags": [
+      "정규직",
+      "PostDoc",
+      "5000만원 이상 ~ 10000만원 미만",
+      "다학제 융합/복합"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10038198&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "강원대학교 G-LAMP사업단",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "5000만원 이상 ~ 9000만원 미만",
+      "기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039287&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "석사",
+    "title": "㈜인트론바이오 R&BD 연구소 신입/경력 채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "신입사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039057&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "석사",
+    "title": "큐티스바이오 효모기반 단백질생산 균주개발 및 발효공정개발 분야 연구원 모집",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "6000만원 이상 ~ 9000만원 미만",
+      "분자생물학/미생물학/바이오소재"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10038902&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "학사",
+    "title": "주식회사 고려비엔피 연구개발본부 채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "3100만원 이상 ~ 8000만원 미만",
+      "생명과학 기타/의약학 기타/바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10038199&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "학사",
+    "title": "기초과학연구원 생명과학 연구클러스터 별정직 채용 공고",
+    "period": "",
+    "tags": [
+      "계약직",
+      "기타",
+      "2600만원 이상 ~ 5000만원 미만",
+      "생명과학 기타/동물자원학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10038562&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "KAIST 유전체 교정 연구 분야 박사후 연구원 모집 (유전자 교정 연구실- ChoLab )",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "9000만원 이상 ~ 9000만원 미만",
+      "세포생물학/유전학/수의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10037753&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "학사",
+    "title": "테칸코리아 유한회사 Field Service Engineer 경력 채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "5000만원 이상 ~ 8000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10036937&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "석사",
+    "title": "주식회사 다안바이오테라퓨틱스 R&D팀 분야별 채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "7000만원 이상 ~ 10000만원 미만",
+      "의약학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10036297&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "[GIST 생명과학과 신경생물지능 연구실] 분자생물학 및 신경과학 전공 박사후연구원(Postdoc) 모집",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "9000만원 이상 ~ 9000만원 미만",
+      "분자생물학/신경생물학/뇌인지과학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039740&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "학력무관",
+    "title": "서울아산병원 아산생명과학연구원 (인턴학생 모집)",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구생",
+      "2600만원 이상 ~ 2600만원 미만",
+      "면역학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039729&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "아임뉴런",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "4700만원 이상 ~ 6000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039704&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "석사",
+    "title": "아임뉴런",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "3600만원 이상 ~ 5000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039696&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "대구경북과학기술원 (DGIST) / 뇌과학과 / 박사후 연구원 (Post-doc) 채용모집",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "9000만원 이상 ~ 9000만원 미만",
+      "신경생물학/생리학/뇌인지과학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039695&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "석사",
+    "title": "(주)와이바이오로직스",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "3800만원 이상 ~ 7500만원 미만",
+      "면역학/세포생물학/분자생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039671&article.offset=0&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "학사",
+    "title": "동국대학교 의과학연구소 (신경과 김동억 교수 연구실 ) 학사 연구원 채용",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "2800만원 이상 ~ 3000만원 미만",
+      "생명과학 기타/뇌인지과학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039669&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "한국뇌연구원 멀티오믹스 기반 뇌질환 연구실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4000만원 이상 ~ 8000만원 미만",
+      "신경생물학/분자생물학/바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039654&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  },
+  {
+    "company": "박사",
+    "title": "국립암센터",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4000만원 이상 ~ 5000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039644&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-06-21"
+  }
+]
