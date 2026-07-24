@@ -11,21 +11,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043962&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "박사",
-    "title": "광주과학기술원 이노코어 InnoCORE 포닥(Post-doc) 모집",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "8000만원 이상 ~ 10000만원 미만",
-      "세포생물학/면역학/신경생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042731&article.offset=0&articleLimit=20&type=premium",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "박사",
@@ -39,7 +25,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041561&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학력무관",
@@ -53,7 +39,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042694&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학력무관",
@@ -67,7 +53,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042703&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -81,7 +67,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043753&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -95,7 +81,259 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041734&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "월드프랩",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3500만원 이상 ~ 3500만원 미만",
+      "분자생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045431&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "경북대학교 의과대학 의과학과 분자의학교실 Chembio lab 유정수 교수님 연구실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "인턴사원",
+      "2600만원 이상 ~ 2600만원 미만",
+      "분자생물학/의약학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045408&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "박사",
+    "title": "대구경북과학기술원 뇌과학과 감정신경과학 연구실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "9000만원 이상 ~ 9000만원 미만",
+      "신경생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045407&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "(주)인트론바이오 R&BD 및 영업 부문",
+    "period": "",
+    "tags": [
+      "정규직",
+      "신입사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045357&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "석사",
+    "title": "건국대학교",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3200만원 이상 ~ 4000만원 미만",
+      "신경생물학/분자생물학/세포생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045354&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "석사",
+    "title": "(주)인트론바이오 R&BD 부문 (인트론 R&BD 연구소)",
+    "period": "",
+    "tags": [
+      "정규직",
+      "신입사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045352&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "(주)인트론바이오 전략기획실 [경영·기획 부문]",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045349&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "아주대의료원 인체유전체자원센터(인체자원은행)",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3000만원 이상 ~ 3000만원 미만",
+      "분자생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045329&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학력무관",
+    "title": "연세대학교 의과대학 산부인과학교실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3000만원 이상 ~ 4000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045311&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "전문대졸",
+    "title": "부산대학교 의과대학 (양산캠퍼스)",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "2600만원 이상 ~ 2600만원 미만",
+      "기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045310&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "석사",
+    "title": "서울대학교병원",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3600만원 이상 ~ 3600만원 미만",
+      "세포생물학/유전학/분자생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045302&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "박사",
+    "title": "(사)분자설계연구소",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "6000만원 이상 ~ 10000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045301&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "박사",
+    "title": "성신여자대학교 바이오신약의과학부 박사후연구원 및 석사급연구원 모집",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "5000만원 이상 ~ 6500만원 미만",
+      "세포생물학/재생의학/다학제 융합/복합"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045265&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "석사",
+    "title": "주식회사 씨젠 AI 서비스 기획/검증자 채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "4500만원 이상 ~ 8200만원 미만",
+      "분자생물학/바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045261&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "(주)한국화장품제조 화장품 안전성 평가(SA) 신입, 경력 채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "4000만원 이상 ~ 5700만원 미만",
+      "생명과학 기타/약리의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045240&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "삼성서울병원 AI신약디자인랩 CRC모집",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "2700만원 이상 ~ 3000만원 미만",
+      "분자생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045236&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "학사",
+    "title": "서울대학교 자연과학대학 생명과학부",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3000만원 이상 ~ 5000만원 미만",
+      "분자생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045235&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
+  },
+  {
+    "company": "박사",
+    "title": "한국뇌연구원 2026년도 제4차 직원(정규직)채용",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "5500만원 이상 ~ 8500만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045214&article.offset=20&articleLimit=20&type=premium",
+    "source": "BRIC",
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "박사",
@@ -107,9 +345,9 @@
       "4500만원 이상 ~ 9000만원 미만",
       "면역학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045205&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045205&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사수료",
@@ -121,9 +359,9 @@
       "3000만원 이상 ~ 7000만원 미만",
       "분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045200&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045200&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "박사수료",
@@ -135,9 +373,9 @@
       "8000만원 이상 ~ 12000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045159&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045159&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -149,9 +387,9 @@
       "3700만원 이상 ~ 5500만원 미만",
       "면역학/세포생물학/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045140&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045140&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학사",
@@ -163,13 +401,13 @@
       "7000만원 이상 ~ 8000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045135&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045135&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학사",
-    "title": "국민대학교 응용화학부",
+    "title": "국민대학교 과학기술대학 응용화학부 바이오의약전공",
     "period": "",
     "tags": [
       "계약직",
@@ -177,9 +415,9 @@
       "2600만원 이상 ~ 4000만원 미만",
       "생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045134&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045134&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학력무관",
@@ -191,9 +429,9 @@
       "2700만원 이상 ~ 3700만원 미만",
       "생명과학 기타/바이오소재/한의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045123&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045123&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학사",
@@ -205,9 +443,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "유전 및 유전체의학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045087&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045087&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -219,9 +457,9 @@
       "2600만원 이상 ~ 3500만원 미만",
       "신경생물학/동물자원학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045086&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045086&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -233,9 +471,9 @@
       "3000만원 이상 ~ 4300만원 미만",
       "신경생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045079&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045079&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "전문대졸",
@@ -247,9 +485,9 @@
       "2900만원 이상 ~ 3800만원 미만",
       "신경생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045078&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045078&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학사",
@@ -261,9 +499,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045077&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045077&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -275,9 +513,9 @@
       "3000만원 이상 ~ 3500만원 미만",
       "세포생물학/재생의학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045049&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045049&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사수료",
@@ -291,7 +529,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045045&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "학사",
@@ -305,7 +543,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045034&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   },
   {
     "company": "석사",
@@ -319,244 +557,6 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045033&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "전북대학교 의과대학 피부과",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3000만원 이상 ~ 4000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045001&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "학사",
-    "title": "상지대학교 한의과대학 세포면역학연구실",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3000만원 이상 ~ 3000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044972&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "학사",
-    "title": "[주식회사 보름바이오] 항원·항체 및 진단키트 분야 연구원 채용",
-    "period": "",
-    "tags": [
-      "정규직",
-      "연구원",
-      "3600만원 이상 ~ 4000만원 미만",
-      "의료기기/바이오센싱 및 나노바이오물질"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044937&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "박사",
-    "title": "Full-time Postdoctoral Researcher - Center for Plant Biotechnology-Ghent University Global Campus, Korea",
-    "period": "",
-    "tags": [
-      "계약직",
-      "PostDoc",
-      "4700만원 이상 ~ 5500만원 미만",
-      "기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044934&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "조선대학교 광주치매코호트연구단 ARPA-H 프로젝트 사업 실무 책임",
-    "period": "",
-    "tags": [
-      "계약직",
-      "기타",
-      "5000만원 이상 ~ 6000만원 미만",
-      "뇌인지과학/다학제 융합/복합"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044892&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "(주)사이키바이오텍 기업부설연구소 R&D 정규직 모집(생명공학 분야)_석사이상",
-    "period": "",
-    "tags": [
-      "정규직",
-      "연구원",
-      "3000만원 이상 ~ 7000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044873&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "박사",
-    "title": "(주)사이키바이오텍 기업부설연구소 R&D 정규직 모집(생명공학 분야)",
-    "period": "",
-    "tags": [
-      "정규직",
-      "연구원",
-      "3000만원 이상 ~ 7000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044868&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "한림대학교 일송생명과학연구소 감각/감정 신경과학 연구실 (서울)",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3000만원 이상 ~ 3500만원 미만",
-      "신경생물학/분자생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044851&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "세종대학교 스마트생명산업융합과",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3000만원 이상 ~ 5000만원 미만",
-      "생물공학/미생물학/분자생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044842&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "학사",
-    "title": "(주)셀라티스 영업담당자 정규직 모집 및 출산및육아휴직 대체인력 모집",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "3200만원 이상 ~ 7000만원 미만",
-      "생명과학 기타/의약학 기타/바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044841&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사수료",
-    "title": "바이온사이트 Data Scientist 모집",
-    "period": "",
-    "tags": [
-      "정규직",
-      "연구원",
-      "4000만원 이상 ~ 10000만원 미만",
-      "의약학 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044840&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "전남대학교 치의학전문대학원 구강미생물교실",
-    "period": "",
-    "tags": [
-      "계약직",
-      "기타",
-      "2600만원 이상 ~ 2600만원 미만",
-      "미생물학/세포생물학/분자세포의학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044834&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "박사",
-    "title": "[쓰리빌리언] 신약개발 전략 연구원 (R&D Strategy)",
-    "period": "",
-    "tags": [
-      "정규직",
-      "경력사원",
-      "5000만원 이상 ~ 10000만원 미만",
-      "유전학/인체시스템의학/약학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044813&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "학사",
-    "title": "연세대학교 원주의과대학",
-    "period": "",
-    "tags": [
-      "계약직",
-      "조교",
-      "3800만원 이상 ~ 3900만원 미만",
-      "감염의학/면역의학/미생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044810&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "자연과학주식회사 생명과학 기술영업 채용",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "4200만원 이상 ~ 5000만원 미만",
-      "유전학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044794&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "석사",
-    "title": "(주)비엠에스 생명과학 연구용장비 및 진단 영업 채용",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "4200만원 이상 ~ 5000만원 미만",
-      "생명과학 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044791&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
-  },
-  {
-    "company": "학사",
-    "title": "한국파스퇴르연구소 항생제내성 연구실 Data Scientist 모집 (계약직)",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3500만원 이상 ~ 4500만원 미만",
-      "미생물학/기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044781&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-07-23"
+    "crawled_at": "2026-07-24"
   }
 ]
