@@ -11,7 +11,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051310&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -25,7 +25,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051350&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -39,7 +39,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051346&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -53,7 +53,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051268&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -67,7 +67,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049148&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -81,7 +81,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051413&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -95,7 +95,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051150&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -109,7 +109,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050976&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -123,7 +123,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050419&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -137,7 +137,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050371&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -151,7 +151,63 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047064&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
+  },
+  {
+    "company": "석사",
+    "title": "종근당건강",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "5000만원 이상 ~ 7000만원 미만",
+      "미생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051672&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-08-30"
+  },
+  {
+    "company": "박사",
+    "title": "삼성서울병원",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4000만원 이상 ~ 6000만원 미만",
+      "바이오·의료융합 기타/종양의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051666&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-08-30"
+  },
+  {
+    "company": "학사",
+    "title": "한양대학교 생물정보 및 유전체 연구실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "기타",
+      "3500만원 이상 ~ 3500만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051665&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-08-30"
+  },
+  {
+    "company": "학사",
+    "title": "[KAIST 뇌인지과학과] 박수현 교수 연구실 전일제 위촉연구원 모집 - 동물실험·신경과학 연구",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4000만원 이상 ~ 4500만원 미만",
+      "뇌인지과학/수의학/신경생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051654&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -165,7 +221,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051621&article.offset=0&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -179,7 +235,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051619&article.offset=0&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -193,7 +249,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051610&article.offset=0&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -207,7 +263,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051609&article.offset=0&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -221,7 +277,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051571&article.offset=0&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -233,9 +289,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "면역의학/종양의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051548&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051548&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -247,9 +303,9 @@
       "4200만원 이상 ~ 5000만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051528&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051528&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -261,9 +317,9 @@
       "4200만원 이상 ~ 5000만원 미만",
       "유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051526&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051526&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -275,9 +331,9 @@
       "5200만원 이상 ~ 5700만원 미만",
       "신경생물학/신경의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051518&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051518&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -291,7 +347,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051517&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -305,7 +361,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051457&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -319,7 +375,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051454&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -333,7 +389,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051452&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -347,7 +403,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051447&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -361,7 +417,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051411&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -375,7 +431,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051403&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -389,7 +445,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051399&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -403,7 +459,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051395&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -417,7 +473,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051392&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -431,7 +487,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051369&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -445,7 +501,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051356&article.offset=20&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -459,7 +515,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051353&article.offset=20&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -473,7 +529,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051333&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -487,7 +543,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051295&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -501,7 +557,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051287&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -513,9 +569,9 @@
       "2600만원 이상 ~ 2800만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051269&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051269&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -527,9 +583,9 @@
       "5500만원 이상 ~ 8000만원 미만",
       "다학제 융합/복합/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051165&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051165&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -541,9 +597,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "생리학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051163&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051163&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -555,9 +611,9 @@
       "8500만원 이상 ~ 9500만원 미만",
       "생화학/분자생물학/생리학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051144&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051144&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -571,7 +627,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051134&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -585,7 +641,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051114&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -599,7 +655,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051094&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -613,7 +669,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051083&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -627,7 +683,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051075&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -641,7 +697,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051070&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -655,7 +711,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051063&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -669,7 +725,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051056&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -683,7 +739,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051054&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -697,7 +753,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051052&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -711,7 +767,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051049&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -725,7 +781,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051031&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -739,7 +795,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051015&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -753,7 +809,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051014&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -767,7 +823,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050985&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -781,7 +837,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050967&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -793,9 +849,9 @@
       "5000만원 이상 ~ 8000만원 미만",
       "세포생물학/바이오소재/재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050959&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050959&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -807,9 +863,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "면역의학/세포생물학/인체시스템의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050916&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050916&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -821,9 +877,9 @@
       "4700만원 이상 ~ 5000만원 미만",
       "면역의학/미생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050909&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050909&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -835,9 +891,9 @@
       "4700만원 이상 ~ 8000만원 미만",
       "세포생물학/면역학/약학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050908&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050908&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -851,7 +907,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050906&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -865,7 +921,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050888&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -879,7 +935,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050876&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -893,7 +949,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050837&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -907,7 +963,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050815&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -921,7 +977,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050814&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -935,7 +991,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050807&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -949,7 +1005,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050789&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -963,7 +1019,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050786&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -977,7 +1033,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050785&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -991,7 +1047,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050774&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1005,7 +1061,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050771&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1019,7 +1075,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050754&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1033,7 +1089,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050736&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1047,7 +1103,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050729&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -1061,7 +1117,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050727&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1073,9 +1129,9 @@
       "3600만원 이상 ~ 4200만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050676&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050676&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1087,9 +1143,9 @@
       "3400만원 이상 ~ 4000만원 미만",
       "면역의학/면역학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050659&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050659&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1101,9 +1157,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "면역의학/면역학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050658&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050658&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1115,9 +1171,9 @@
       "4800만원 이상 ~ 5000만원 미만",
       "종양의학/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050644&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050644&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1131,7 +1187,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050636&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1145,7 +1201,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050619&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1159,7 +1215,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050615&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1173,7 +1229,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050611&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1187,7 +1243,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050603&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1201,7 +1257,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050592&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1215,7 +1271,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050588&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1229,7 +1285,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050586&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1243,7 +1299,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050584&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -1257,7 +1313,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050583&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1271,7 +1327,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050582&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1285,7 +1341,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050580&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1299,7 +1355,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050578&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1313,7 +1369,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050569&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -1327,7 +1383,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050567&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1341,7 +1397,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050560&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1353,9 +1409,9 @@
       "4500만원 이상 ~ 6500만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050555&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050555&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1367,9 +1423,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "노화/암생물학/종양의학/유전 및 유전체의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050554&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050554&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1381,9 +1437,9 @@
       "3000만원 이상 ~ 10000만원 미만",
       "의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050552&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050552&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1395,9 +1451,9 @@
       "3200만원 이상 ~ 5000만원 미만",
       "종양의학/미생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050549&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050549&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1411,7 +1467,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050545&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1425,7 +1481,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050535&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1439,7 +1495,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050514&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1453,7 +1509,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050513&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1467,7 +1523,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050509&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1481,7 +1537,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050508&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1495,7 +1551,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050503&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1509,7 +1565,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050502&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1523,7 +1579,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050493&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1537,7 +1593,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050491&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1551,7 +1607,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050488&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1565,7 +1621,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050465&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1579,7 +1635,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050435&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1593,7 +1649,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050418&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1607,7 +1663,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050417&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1621,7 +1677,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050363&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1633,9 +1689,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "종양의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050353&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050353&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1647,9 +1703,9 @@
       "9000만원 이상 ~ 9000만원 미만",
       "감염생물학/면역학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050343&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050343&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1661,9 +1717,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "생명과학 기타/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050331&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050331&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1675,9 +1731,9 @@
       "3300만원 이상 ~ 6000만원 미만",
       "생명과학 기타/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050329&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050329&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1691,7 +1747,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050327&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1705,7 +1761,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050316&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1719,7 +1775,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050287&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1733,7 +1789,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050275&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1747,7 +1803,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050273&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1761,7 +1817,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050272&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1775,7 +1831,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050264&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1789,7 +1845,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050260&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1803,7 +1859,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050224&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1817,7 +1873,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050220&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1831,7 +1887,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050207&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1845,7 +1901,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050203&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -1859,7 +1915,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050159&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1873,7 +1929,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050099&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1887,7 +1943,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050091&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1901,7 +1957,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050087&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1913,9 +1969,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "신경의학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050080&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050080&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1927,9 +1983,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "분자생물학/생명과학 기타/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050060&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050060&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1941,9 +1997,9 @@
       "2600만원 이상 ~ 2600만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050043&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050043&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -1955,9 +2011,9 @@
       "7500만원 이상 ~ 8000만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050042&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050042&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1971,7 +2027,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050035&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -1985,7 +2041,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050028&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -1999,7 +2055,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050017&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2013,7 +2069,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050016&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2027,7 +2083,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050015&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2041,7 +2097,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050007&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2055,7 +2111,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049992&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2069,7 +2125,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049991&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2083,7 +2139,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049971&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2097,7 +2153,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049968&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2111,7 +2167,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049953&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2125,7 +2181,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049950&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2139,7 +2195,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049886&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2153,7 +2209,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049863&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2167,7 +2223,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049862&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2181,7 +2237,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049849&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2193,9 +2249,9 @@
       "3300만원 이상 ~ 6000만원 미만",
       "신경생물학/분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049844&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049844&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2207,9 +2263,9 @@
       "2600만원 이상 ~ 10000만원 미만",
       "약학/의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049842&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049842&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2221,9 +2277,9 @@
       "4500만원 이상 ~ 8000만원 미만",
       "분자생물학/미생물학/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049819&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049819&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2235,9 +2291,9 @@
       "3600만원 이상 ~ 3600만원 미만",
       "치의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049813&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049813&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2251,7 +2307,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049799&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2265,7 +2321,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049791&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2279,7 +2335,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049771&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2293,7 +2349,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049766&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2307,7 +2363,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049751&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2321,7 +2377,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049718&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2335,7 +2391,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049696&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2349,7 +2405,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049686&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2363,7 +2419,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049679&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2377,7 +2433,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049677&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2391,7 +2447,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049676&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2405,7 +2461,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049658&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2419,7 +2475,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049570&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2433,7 +2489,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049548&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2447,7 +2503,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049512&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2461,7 +2517,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049490&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2473,9 +2529,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "응용의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049484&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049484&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2487,9 +2543,9 @@
       "4000만원 이상 ~ 4000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049481&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049481&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2501,9 +2557,9 @@
       "3000만원 이상 ~ 3800만원 미만",
       "종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049469&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049469&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2515,9 +2571,9 @@
       "7500만원 이상 ~ 8000만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049440&article.offset=160&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049440&article.offset=180&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2531,7 +2587,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049420&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2545,7 +2601,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049419&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2559,7 +2615,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049401&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2573,7 +2629,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049364&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2587,7 +2643,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049354&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2601,7 +2657,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049346&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2615,7 +2671,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049345&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -2629,7 +2685,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049275&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2643,7 +2699,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049268&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사수료",
@@ -2657,7 +2713,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049267&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2671,7 +2727,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049266&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2685,7 +2741,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049249&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2699,7 +2755,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049231&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2713,7 +2769,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049225&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2727,7 +2783,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049207&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2741,7 +2797,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049205&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2753,9 +2809,9 @@
       "3300만원 이상 ~ 6000만원 미만",
       "생명과학 기타/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049204&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049204&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2767,23 +2823,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "분자세포의학/인체시스템의학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049194&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049194&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
-  },
-  {
-    "company": "학사",
-    "title": "아가나여성의원 연구원 채용",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3400만원 이상 ~ 7000만원 미만",
-      "수의학/생명과학 기타/생명과학 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049175&article.offset=180&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2795,9 +2837,9 @@
       "3800만원 이상 ~ 6000만원 미만",
       "발생생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049129&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049129&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2811,7 +2853,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049122&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2825,7 +2867,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049121&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2839,7 +2881,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049119&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2853,7 +2895,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049090&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -2867,7 +2909,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049079&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사수료",
@@ -2881,7 +2923,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049072&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2895,7 +2937,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049068&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2909,7 +2951,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049067&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2923,7 +2965,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049066&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2937,7 +2979,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048994&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2951,7 +2993,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048993&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2965,7 +3007,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048980&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -2979,7 +3021,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048976&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -2993,7 +3035,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048924&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3007,7 +3049,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048910&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3021,7 +3063,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048898&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3035,7 +3077,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048886&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -3047,9 +3089,9 @@
       "6000만원 이상 ~ 9900만원 미만",
       "생화학/분자세포의학/바이오소재"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048876&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048876&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3061,9 +3103,9 @@
       "3600만원 이상 ~ 5000만원 미만",
       "세포생물학/노화/암생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048874&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048874&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3075,9 +3117,9 @@
       "3700만원 이상 ~ 4000만원 미만",
       "분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048869&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048869&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3091,7 +3133,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048848&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -3105,7 +3147,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048847&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3119,7 +3161,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048828&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3133,7 +3175,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048812&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3147,7 +3189,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048805&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3161,7 +3203,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048804&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3175,7 +3217,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048757&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3189,7 +3231,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048713&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3203,7 +3245,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048688&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3217,7 +3259,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048681&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -3231,7 +3273,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048663&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3245,7 +3287,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048659&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -3259,7 +3301,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048656&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -3273,7 +3315,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048648&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3287,7 +3329,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048598&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3301,7 +3343,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048588&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3315,7 +3357,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048486&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3327,9 +3369,9 @@
       "3100만원 이상 ~ 8000만원 미만",
       "생명과학 기타/생물공학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048433&article.offset=220&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048433&article.offset=240&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3341,9 +3383,9 @@
       "5000만원 이상 ~ 7000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048422&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048422&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3355,9 +3397,9 @@
       "3200만원 이상 ~ 4500만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048420&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048420&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3371,7 +3413,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048413&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3385,7 +3427,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048381&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3399,7 +3441,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048379&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3413,7 +3455,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048345&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3427,7 +3469,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048329&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3441,7 +3483,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048324&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3455,7 +3497,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048313&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3469,7 +3511,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048276&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3483,7 +3525,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048198&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -3497,7 +3539,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048196&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3511,7 +3553,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048151&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3525,7 +3567,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048062&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3539,7 +3581,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048041&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -3553,7 +3595,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048038&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3567,7 +3609,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047998&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3581,7 +3623,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047996&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3595,7 +3637,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047892&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3607,9 +3649,9 @@
       "2700만원 이상 ~ 3000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047845&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047845&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3621,9 +3663,9 @@
       "3700만원 이상 ~ 6000만원 미만",
       "생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047812&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047812&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3635,9 +3677,9 @@
       "4000만원 이상 ~ 4000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047764&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047764&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3651,7 +3693,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047757&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -3665,7 +3707,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047756&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -3679,7 +3721,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047696&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -3693,7 +3735,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047691&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3707,7 +3749,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047657&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3721,7 +3763,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047649&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -3735,7 +3777,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047643&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3749,7 +3791,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047633&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3763,7 +3805,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047602&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사수료",
@@ -3777,7 +3819,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047601&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3791,7 +3833,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047582&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3805,7 +3847,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047488&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3819,7 +3861,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047471&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3833,7 +3875,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047469&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3847,7 +3889,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047433&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -3861,7 +3903,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047419&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3875,7 +3917,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047393&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3887,9 +3929,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "세포생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047297&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047297&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -3901,9 +3943,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "생명과학 기타/생화학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047286&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047286&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3915,9 +3957,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "분자세포의학/생화학/종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047206&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047206&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -3931,7 +3973,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047203&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3945,7 +3987,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047169&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3959,7 +4001,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047143&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -3973,7 +4015,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047128&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사수료",
@@ -3987,7 +4029,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047123&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4001,7 +4043,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047098&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4015,7 +4057,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047074&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4029,21 +4071,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047018&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
-  },
-  {
-    "company": "석사",
-    "title": "지에이치바이오",
-    "period": "",
-    "tags": [
-      "정규직",
-      "연구원",
-      "3000만원 이상 ~ 3900만원 미만",
-      "분자생물학/면역학/노화/암생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046995&article.offset=280&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4057,7 +4085,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046983&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4071,7 +4099,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046964&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4085,7 +4113,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046939&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4099,7 +4127,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046934&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4113,7 +4141,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046925&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4127,7 +4155,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046898&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4141,7 +4169,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046887&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -4155,7 +4183,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046866&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4169,7 +4197,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046855&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4181,9 +4209,9 @@
       "8500만원 이상 ~ 9000만원 미만",
       "세포생물학/생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046838&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046838&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -4195,9 +4223,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046829&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046829&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4211,7 +4239,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046828&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4225,7 +4253,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046792&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4239,7 +4267,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046761&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4253,7 +4281,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046743&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4267,7 +4295,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046742&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4281,7 +4309,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046697&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4295,7 +4323,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046627&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4309,7 +4337,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046608&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4323,7 +4351,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046588&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4337,21 +4365,21 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046558&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
-    "company": "석사",
-    "title": "가톨릭대학교 뇌신경과학 홍익바이오랩 (주 2일근무 파트타임 근무자)",
+    "company": "박사수료",
+    "title": "가톨릭대학교 뇌신경과학 홍익바이오랩 연구교수님 초빙",
     "period": "",
     "tags": [
       "계약직",
-      "연구원",
-      "2600만원 이상 ~ 2600만원 미만",
+      "연구교수",
+      "3500만원 이상 ~ 5000만원 미만",
       "신경의학/유전학/뇌인지과학"
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046529&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4365,7 +4393,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046492&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4379,7 +4407,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046483&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -4393,7 +4421,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046459&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4407,7 +4435,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046377&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4421,7 +4449,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046375&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4435,7 +4463,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046322&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4449,7 +4477,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046247&article.offset=300&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4461,9 +4489,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "면역학/세포생물학/미생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046218&article.offset=300&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046218&article.offset=320&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4475,9 +4503,9 @@
       "4000만원 이상 ~ 7000만원 미만",
       "세포생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046205&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046205&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4491,7 +4519,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046181&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4505,7 +4533,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046161&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4519,7 +4547,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046160&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4533,7 +4561,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046108&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -4547,7 +4575,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046039&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4561,7 +4589,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046000&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4575,7 +4603,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045921&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4589,7 +4617,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045847&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4603,7 +4631,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045813&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4617,7 +4645,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045805&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4631,7 +4659,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045803&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4645,7 +4673,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045781&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4659,7 +4687,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045714&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4673,7 +4701,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045657&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4687,7 +4715,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045652&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4701,7 +4729,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045638&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4715,7 +4743,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045565&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4729,7 +4757,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045508&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4741,9 +4769,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "분자세포의학/종양의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045507&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045507&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4755,9 +4783,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "바이오·의료융합 기타/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045494&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045494&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4771,7 +4799,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045478&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4785,7 +4813,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045477&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4799,7 +4827,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045475&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4813,7 +4841,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045408&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4827,7 +4855,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045407&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사수료",
@@ -4841,7 +4869,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045200&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사수료",
@@ -4855,7 +4883,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045159&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4869,7 +4897,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045140&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4883,7 +4911,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045134&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4897,7 +4925,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045086&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4911,7 +4939,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045034&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4925,7 +4953,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045001&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -4939,7 +4967,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044937&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4953,7 +4981,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044892&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사수료",
@@ -4967,7 +4995,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044840&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -4981,7 +5009,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044834&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -4995,7 +5023,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044813&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5009,7 +5037,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044743&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5021,9 +5049,9 @@
       "3500만원 이상 ~ 4500만원 미만",
       "신경의학/분자생물학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044623&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044623&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5035,9 +5063,9 @@
       "9000만원 이상 ~ 10000만원 미만",
       "세포생물학/생리학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044593&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044593&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5051,7 +5079,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044591&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5065,7 +5093,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044583&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5079,7 +5107,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044543&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5093,7 +5121,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044353&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5107,7 +5135,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044315&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5121,7 +5149,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044281&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5135,7 +5163,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044279&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5149,7 +5177,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044267&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5163,7 +5191,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044251&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -5177,7 +5205,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044234&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5191,7 +5219,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044214&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5205,7 +5233,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044199&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5219,7 +5247,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044172&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5233,7 +5261,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044156&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5247,7 +5275,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044093&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5261,7 +5289,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043982&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5275,7 +5303,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043957&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5289,7 +5317,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043948&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5301,9 +5329,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "재생의학/생물공학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043711&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043711&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학력무관",
@@ -5315,9 +5343,9 @@
       "3500만원 이상 ~ 4500만원 미만",
       "분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043603&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043603&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5331,7 +5359,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043584&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5345,7 +5373,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043583&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5359,7 +5387,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043531&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5373,7 +5401,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043518&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5387,7 +5415,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043458&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5401,7 +5429,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043296&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5415,7 +5443,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043281&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5429,7 +5457,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043253&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5443,7 +5471,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043209&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5457,7 +5485,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043191&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5471,7 +5499,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043181&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5485,7 +5513,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043136&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5499,7 +5527,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042975&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5513,7 +5541,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042862&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5527,7 +5555,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042775&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5541,7 +5569,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042771&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5555,7 +5583,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042727&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사수료",
@@ -5569,7 +5597,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042717&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5581,9 +5609,9 @@
       "4000만원 이상 ~ 5500만원 미만",
       "세포생물학/생물공학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042634&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042634&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5595,9 +5623,9 @@
       "4000만원 이상 ~ 9000만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042618&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042618&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5611,7 +5639,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042544&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5625,7 +5653,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042511&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5639,7 +5667,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042509&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5653,7 +5681,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042507&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5667,7 +5695,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042244&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5681,7 +5709,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042096&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5695,7 +5723,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042095&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -5709,7 +5737,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042072&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5723,7 +5751,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042071&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5737,7 +5765,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042046&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -5751,7 +5779,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041993&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5765,7 +5793,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041894&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5779,7 +5807,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041878&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5793,7 +5821,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041869&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5807,7 +5835,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041830&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5821,7 +5849,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041657&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5835,7 +5863,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041532&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5849,7 +5877,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041421&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5861,9 +5889,9 @@
       "5200만원 이상 ~ 5200만원 미만",
       "세포생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041360&article.offset=400&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041360&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5875,9 +5903,9 @@
       "9000만원 이상 ~ 9000만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041333&article.offset=400&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041333&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5891,7 +5919,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041257&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5905,7 +5933,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041149&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -5919,7 +5947,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041093&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5933,7 +5961,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041091&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5947,7 +5975,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041073&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5961,7 +5989,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040901&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "전문대졸",
@@ -5975,7 +6003,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040875&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -5989,7 +6017,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040827&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6003,7 +6031,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040601&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6017,7 +6045,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040456&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6031,7 +6059,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040453&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6045,7 +6073,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040431&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6059,7 +6087,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040153&article.offset=420&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6073,7 +6101,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040147&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6087,7 +6115,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039883&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6101,7 +6129,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039832&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6115,7 +6143,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039654&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -6129,7 +6157,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10037030&article.offset=420&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6141,9 +6169,9 @@
       "5500만원 이상 ~ 6000만원 미만",
       "면역의학/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10036129&article.offset=420&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10036129&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6155,9 +6183,9 @@
       "3000만원 이상 ~ 8000만원 미만",
       "신경의학/세포생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10034468&article.offset=420&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10034468&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6171,7 +6199,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10033826&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6185,7 +6213,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10033369&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -6199,7 +6227,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10033368&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "석사",
@@ -6213,7 +6241,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10032662&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "학사",
@@ -6227,7 +6255,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10028646&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   },
   {
     "company": "박사",
@@ -6241,6 +6269,6 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10014783&article.offset=440&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-08-29"
+    "crawled_at": "2026-08-30"
   }
 ]
