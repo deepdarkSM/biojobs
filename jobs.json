@@ -11,7 +11,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052396&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -25,7 +25,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053288&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -39,7 +39,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053415&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -53,7 +53,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051356&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -67,7 +67,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051353&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -81,7 +81,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052931&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -95,7 +95,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052997&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -109,7 +109,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052986&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -123,21 +123,301 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051268&article.offset=0&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "최상 산부인과 ( 난임센터 - 경력직 연구원 모집 )",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "4500만원 이상 ~ 6000만원 미만",
+      "발생생물학/세포생물학/동물자원학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054162&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "[강북삼성병원 진단검사의학과] 연구원을 모집합니다.",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3000만원 이상 ~ 4000만원 미만",
+      "의약학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054156&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "(주)인트론바이오 R&BD 및 영업 부문",
+    "period": "",
+    "tags": [
+      "정규직",
+      "신입사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054146&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
-    "title": "(주)크레오에스지 바이오사업부(서울) 연구원 채용 공고",
+    "title": "(주)인트론바이오 R&BD 부문 (인트론 R&BD 연구소)",
+    "period": "",
+    "tags": [
+      "정규직",
+      "신입사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054145&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "(주)인트론바이오 전략기획실 [경영·기획 부문]",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "4500만원 이상 ~ 9000만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054143&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "[(주)온코젠] 글로벌 임상개발 및 BD 경력직 모집",
+    "period": "",
+    "tags": [
+      "정규직",
+      "경력사원",
+      "3500만원 이상 ~ 7000만원 미만",
+      "생물공학/간호학/생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054139&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "부산대학교 한의과학연구소",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3300만원 이상 ~ 3300만원 미만",
+      "한의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054129&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "서울대학교병원 안과 망막 연구실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3800만원 이상 ~ 4000만원 미만",
+      "응용의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054103&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "박사",
+    "title": "삼성서울병원 내분비내과 연구실 보건의료데이터분석 박사급 연구원",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4000만원 이상 ~ 6000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054075&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "미즈메디병원 아이드림연구소 연구원 모집 공고(난임)",
     "period": "",
     "tags": [
       "정규직",
       "연구원",
-      "3500만원 이상 ~ 5000만원 미만",
-      "분자생물학/면역학/종양의학"
+      "3000만원 이상 ~ 10000만원 미만",
+      "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050976&article.offset=0&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054074&article.offset=0&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "고려대학교 구로병원 위장관외과 연구실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3000만원 이상 ~ 4000만원 미만",
+      "세포생물학/종양의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054073&article.offset=0&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "박사",
+    "title": "동남권원자력의학원",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "4100만원 이상 ~ 4400만원 미만",
+      "분자생물학/유전학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054071&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "박사",
+    "title": "순천향대학교 의과대학 임상약리학교실 (뇌인지 및 퇴행성 질환) Post-doc 인재 모집",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "6000만원 이상 ~ 6000만원 미만",
+      "뇌인지과학/약리의학/신경의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054070&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "박사",
+    "title": "University of North Carolina (UNC) - Endothelial Metabolism Lab",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "8000만원 이상 ~ 9000만원 미만",
+      "세포생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054059&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "서울대학교병원 석사 후 연구원 채용",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3500만원 이상 ~ 4300만원 미만",
+      "바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054049&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "아름다운산부인과",
+    "period": "",
+    "tags": [
+      "정규직",
+      "연구원",
+      "7000만원 이상 ~ 13000만원 미만",
+      "세포생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054047&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "원광대학교, 생명과학부",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3600만원 이상 ~ 5000만원 미만",
+      "미생물학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054028&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "서울아산병원 울산대학교 의과대학 호흡기내과 연구실 석사급 연구원 모집",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "3300만원 이상 ~ 4100만원 미만",
+      "세포생물학/분자생물학/바이오·의료융합 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054024&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "학사",
+    "title": "이화여자대학교 의과대학 분자의과학교실",
+    "period": "",
+    "tags": [
+      "계약직",
+      "연구원",
+      "2600만원 이상 ~ 3000만원 미만",
+      "세포생물학/분자세포의학/인체시스템의학"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054019&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "석사",
+    "title": "(주)인사이드_글로벌 의료기기 Epredia 학술 지원 모집 공고",
+    "period": "",
+    "tags": [
+      "정규직",
+      "기타",
+      "4000만원 이상 ~ 6000만원 미만",
+      "생명과학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10054016&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
+  },
+  {
+    "company": "박사",
+    "title": "연세대학교 의과대학 예방의학교실/보건학과",
+    "period": "",
+    "tags": [
+      "계약직",
+      "PostDoc",
+      "4200만원 이상 ~ 5400만원 미만",
+      "의약학 기타"
+    ],
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053989&article.offset=20&articleLimit=20",
+    "source": "BRIC",
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -149,23 +429,23 @@
       "5500만원 이상 ~ 6500만원 미만",
       "신경의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053986&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053986&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
-    "title": "가톨릭대학교 의과대학",
+    "title": "가톨릭대학교 의과대학, 학교 발령 [조교] 모집",
     "period": "",
     "tags": [
       "계약직",
       "조교",
       "3700만원 이상 ~ 4200만원 미만",
-      "세포생물학/세포생물학/생명과학 기타"
+      "세포생물학/분자생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053980&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053980&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -177,9 +457,9 @@
       "3600만원 이상 ~ 6000만원 미만",
       "약리의학/의약학 기타/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053979&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053979&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -191,9 +471,9 @@
       "4500만원 이상 ~ 7500만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053970&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053970&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -205,9 +485,9 @@
       "4200만원 이상 ~ 5200만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053953&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053953&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -219,9 +499,9 @@
       "7000만원 이상 ~ 9000만원 미만",
       "신경생물학/신경의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053949&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053949&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -233,9 +513,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "세포생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053945&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053945&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -247,9 +527,9 @@
       "4100만원 이상 ~ 4400만원 미만",
       "바이오·의료융합 기타/기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053894&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053894&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -261,9 +541,9 @@
       "2600만원 이상 ~ 2600만원 미만",
       "생리학/신경의학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053891&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053891&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -275,9 +555,9 @@
       "3300만원 이상 ~ 3500만원 미만",
       "발생생물학/세포생물학/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053876&article.offset=0&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053876&article.offset=20&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -289,23 +569,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "의료기기/바이오센싱 및 나노바이오물질/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053830&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053830&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "충남대학교병원",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "2600만원 이상 ~ 2600만원 미만",
-      "기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053799&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -317,9 +583,9 @@
       "2600만원 이상 ~ 3600만원 미만",
       "약리의학/생리학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053785&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053785&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -331,9 +597,9 @@
       "3200만원 이상 ~ 3200만원 미만",
       "바이오센싱 및 나노바이오물질"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053782&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053782&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -345,9 +611,9 @@
       "3200만원 이상 ~ 3400만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053779&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053779&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -359,9 +625,9 @@
       "5500만원 이상 ~ 8500만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053766&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053766&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -373,9 +639,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053765&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053765&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -387,9 +653,9 @@
       "4200만원 이상 ~ 4600만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053764&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053764&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -401,9 +667,9 @@
       "5000만원 이상 ~ 8000만원 미만",
       "면역의학/바이오소재/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053759&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053759&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -415,9 +681,9 @@
       "3000만원 이상 ~ 3000만원 미만",
       "분자세포의학/종양의학/신경의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053724&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053724&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -429,9 +695,9 @@
       "8500만원 이상 ~ 9000만원 미만",
       "세포생물학/생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053711&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053711&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -443,37 +709,9 @@
       "5500만원 이상 ~ 6000만원 미만",
       "종양의학/면역학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053710&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053710&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "박사",
-    "title": "삼성서울병원 내분비내과 연구실 보건의료데이터분석 박사급 연구원",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "5000만원 이상 ~ 7000만원 미만",
-      "생명과학 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053675&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "박사",
-    "title": "고려대부속안산병원 연구교수 채용 공고",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구교수",
-      "5200만원 이상 ~ 5200만원 미만",
-      "기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053670&article.offset=20&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -485,9 +723,9 @@
       "3000만원 이상 ~ 6000만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053643&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053643&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -499,9 +737,9 @@
       "8500만원 이상 ~ 10000만원 미만",
       "신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053588&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053588&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -513,9 +751,9 @@
       "8000만원 이상 ~ 10000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053587&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053587&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -527,9 +765,9 @@
       "3900만원 이상 ~ 4100만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053571&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053571&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -541,9 +779,9 @@
       "3200만원 이상 ~ 4000만원 미만",
       "유전학/바이오소재"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053566&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053566&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -555,9 +793,9 @@
       "3500만원 이상 ~ 4000만원 미만",
       "미생물학/바이오소재"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053553&article.offset=20&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053553&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -571,7 +809,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053519&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -585,7 +823,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053470&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -599,7 +837,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053465&article.offset=40&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -611,9 +849,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "구조생물 및 생물물리학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053461&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053461&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -625,9 +863,9 @@
       "2600만원 이상 ~ 2600만원 미만",
       "약학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053459&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053459&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -639,9 +877,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053456&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053456&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -653,9 +891,9 @@
       "4000만원 이상 ~ 4000만원 미만",
       "면역학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053454&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053454&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -667,9 +905,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053452&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053452&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -681,9 +919,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053451&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053451&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -695,9 +933,9 @@
       "3000만원 이상 ~ 3000만원 미만",
       "면역학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053437&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053437&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -709,9 +947,9 @@
       "4500만원 이상 ~ 5500만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053410&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053410&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -723,9 +961,9 @@
       "3500만원 이상 ~ 4500만원 미만",
       "수의학/생명과학 기타/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053405&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053405&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -737,9 +975,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "생명과학 기타/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053371&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053371&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -751,9 +989,9 @@
       "3300만원 이상 ~ 6000만원 미만",
       "생명과학 기타/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053369&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053369&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -765,9 +1003,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053336&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053336&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -779,9 +1017,9 @@
       "3600만원 이상 ~ 3800만원 미만",
       "동물자원학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053331&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053331&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -793,9 +1031,9 @@
       "3300만원 이상 ~ 3800만원 미만",
       "구조생물 및 생물물리학/생화학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053326&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053326&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -807,9 +1045,9 @@
       "3000만원 이상 ~ 3000만원 미만",
       "신경생물학/분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053321&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053321&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -821,9 +1059,9 @@
       "3300만원 이상 ~ 3300만원 미만",
       "신경생물학/분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053318&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053318&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -835,9 +1073,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "세포생물학/종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053316&article.offset=40&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053316&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -851,7 +1089,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053295&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -865,7 +1103,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053286&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -879,7 +1117,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053268&article.offset=60&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -891,9 +1129,9 @@
       "4500만원 이상 ~ 5500만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053262&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053262&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -905,9 +1143,9 @@
       "3000만원 이상 ~ 3000만원 미만",
       "의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053224&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053224&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -919,9 +1157,9 @@
       "2800만원 이상 ~ 3300만원 미만",
       "면역학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053223&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053223&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -933,9 +1171,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "세포생물학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053190&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053190&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사수료",
@@ -947,9 +1185,9 @@
       "3500만원 이상 ~ 4000만원 미만",
       "분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053184&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053184&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -961,9 +1199,9 @@
       "4000만원 이상 ~ 5500만원 미만",
       "분자생물학/의료기기"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053183&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053183&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -975,9 +1213,9 @@
       "3000만원 이상 ~ 7000만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053172&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053172&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -989,9 +1227,9 @@
       "3000만원 이상 ~ 7000만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053171&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053171&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1003,9 +1241,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "미생물학/생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053151&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053151&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1017,9 +1255,9 @@
       "7000만원 이상 ~ 7000만원 미만",
       "면역의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053142&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053142&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1031,9 +1269,9 @@
       "5000만원 이상 ~ 7000만원 미만",
       "세포생물학/발생생물학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053138&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053138&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1045,9 +1283,9 @@
       "4000만원 이상 ~ 4500만원 미만",
       "세포생물학/발생생물학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053136&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053136&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1059,9 +1297,9 @@
       "5000만원 이상 ~ 6500만원 미만",
       "의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053117&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053117&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1073,9 +1311,9 @@
       "8500만원 이상 ~ 10000만원 미만",
       "분자생물학/식물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053072&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053072&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1087,9 +1325,9 @@
       "3700만원 이상 ~ 4200만원 미만",
       "생화학/분자생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053056&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053056&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1101,9 +1339,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "세포생물학/종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053049&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053049&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -1115,9 +1353,9 @@
       "3000만원 이상 ~ 4200만원 미만",
       "생리학/기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053030&article.offset=60&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053030&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1131,7 +1369,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053029&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1145,7 +1383,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053025&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1159,21 +1397,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10053014&article.offset=80&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "석사",
-    "title": "서울아산병원 울산대학교 의과대학 호흡기내과 연구실 석사급 연구원 모집",
-    "period": "",
-    "tags": [
-      "계약직",
-      "연구원",
-      "3300만원 이상 ~ 4100만원 미만",
-      "세포생물학/분자생물학/바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052994&article.offset=80&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1185,9 +1409,9 @@
       "4000만원 이상 ~ 4500만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052985&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052985&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1199,9 +1423,9 @@
       "6000만원 이상 ~ 6000만원 미만",
       "의료기기/기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052972&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052972&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -1213,9 +1437,9 @@
       "2900만원 이상 ~ 3600만원 미만",
       "신경생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052950&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052950&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1227,9 +1451,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "감염생물학/면역학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052949&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052949&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1241,9 +1465,9 @@
       "4600만원 이상 ~ 7000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052940&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052940&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1255,9 +1479,9 @@
       "4000만원 이상 ~ 4000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052937&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052937&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1269,9 +1493,9 @@
       "5000만원 이상 ~ 9000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052929&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052929&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -1283,9 +1507,9 @@
       "2800만원 이상 ~ 3000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052917&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052917&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1297,9 +1521,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "수의학/분자세포의학/노화/암생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052916&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052916&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1311,9 +1535,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "분자생물학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052887&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052887&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1325,9 +1549,9 @@
       "4000만원 이상 ~ 7000만원 미만",
       "분자생물학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052883&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052883&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -1339,9 +1563,9 @@
       "2600만원 이상 ~ 7000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052870&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052870&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -1353,9 +1577,9 @@
       "2600만원 이상 ~ 7000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052869&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052869&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1367,9 +1591,9 @@
       "4800만원 이상 ~ 8400만원 미만",
       "분자생물학/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052772&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052772&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -1381,9 +1605,9 @@
       "4000만원 이상 ~ 4200만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052734&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052734&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1395,9 +1619,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "면역학/생명과학 기타/노화/암생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052732&article.offset=80&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052732&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1411,7 +1635,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052721&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1425,7 +1649,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052711&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1439,7 +1663,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052709&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1453,7 +1677,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052703&article.offset=100&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1465,9 +1689,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "세포생물학/분자생물학/재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052691&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052691&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1479,9 +1703,9 @@
       "2600만원 이상 ~ 7000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052688&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052688&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1493,9 +1717,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052680&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052680&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1507,9 +1731,9 @@
       "4900만원 이상 ~ 6000만원 미만",
       "생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052668&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052668&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1521,9 +1745,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "생물공학/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052663&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052663&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1535,51 +1759,9 @@
       "5000만원 이상 ~ 5000만원 미만",
       "감염의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052654&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052654&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "(주)인트론바이오 전략기획실 [경영·기획 부문]",
-    "period": "",
-    "tags": [
-      "정규직",
-      "경력사원",
-      "4500만원 이상 ~ 9000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052632&article.offset=100&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "석사",
-    "title": "(주)인트론바이오 R&BD 부문 (인트론 R&BD 연구소)",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "4500만원 이상 ~ 9000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052631&article.offset=100&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "(주)인트론바이오 R&BD 및 영업 부문",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "4500만원 이상 ~ 9000만원 미만",
-      "바이오·의료융합 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052630&article.offset=100&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1591,9 +1773,9 @@
       "3000만원 이상 ~ 3500만원 미만",
       "세포생물학/신경생물학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052613&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052613&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1605,9 +1787,9 @@
       "3000만원 이상 ~ 3500만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052594&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052594&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1619,9 +1801,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "바이오소재/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052554&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052554&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1633,9 +1815,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052547&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052547&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1647,9 +1829,9 @@
       "4500만원 이상 ~ 6500만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052538&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052538&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -1661,9 +1843,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052537&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052537&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1675,9 +1857,9 @@
       "2600만원 이상 ~ 3200만원 미만",
       "생화학/분자생물학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052532&article.offset=100&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052532&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1691,7 +1873,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052528&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1705,7 +1887,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052503&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1719,7 +1901,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052489&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사수료",
@@ -1733,7 +1915,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052462&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1747,7 +1929,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052451&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1761,7 +1943,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052423&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1775,7 +1957,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052422&article.offset=120&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1787,9 +1969,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "세포생물학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052405&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052405&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -1801,9 +1983,9 @@
       "3300만원 이상 ~ 4500만원 미만",
       "세포생물학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052403&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052403&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1815,9 +1997,9 @@
       "8500만원 이상 ~ 9000만원 미만",
       "세포생물학/생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052388&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052388&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1829,23 +2011,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052385&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052385&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "최상 산부인과 ( 난임센터 - 경력직 연구원 모집 )",
-    "period": "",
-    "tags": [
-      "정규직",
-      "경력사원",
-      "4500만원 이상 ~ 6000만원 미만",
-      "발생생물학/세포생물학/동물자원학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052362&article.offset=120&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1857,9 +2025,9 @@
       "4000만원 이상 ~ 4400만원 미만",
       "생물공학/한의학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052350&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052350&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -1871,9 +2039,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052322&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052322&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1885,9 +2053,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052321&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052321&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1899,9 +2067,9 @@
       "6000만원 이상 ~ 6000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052241&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052241&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1913,9 +2081,9 @@
       "5000만원 이상 ~ 20000만원 미만",
       "신경의학/분자생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052235&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052235&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1927,9 +2095,9 @@
       "8000만원 이상 ~ 8200만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052234&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052234&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1941,9 +2109,9 @@
       "7500만원 이상 ~ 8000만원 미만",
       "세포생물학/생리학/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052228&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052228&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1955,9 +2123,9 @@
       "5000만원 이상 ~ 5200만원 미만",
       "세포생물학/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052227&article.offset=120&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052227&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -1971,7 +2139,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052226&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1985,7 +2153,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052219&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -1999,7 +2167,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052216&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2013,7 +2181,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052194&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2027,7 +2195,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052189&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2041,7 +2209,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052176&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2055,7 +2223,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052173&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2069,7 +2237,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052157&article.offset=140&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2081,9 +2249,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052152&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052152&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2095,9 +2263,9 @@
       "5000만원 이상 ~ 8000만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052144&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052144&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2109,9 +2277,9 @@
       "3600만원 이상 ~ 4000만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052127&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052127&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2123,9 +2291,9 @@
       "4000만원 이상 ~ 8000만원 미만",
       "분자생물학/미생물학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052111&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052111&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2137,9 +2305,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "분자생물학/노화/암생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052106&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052106&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2151,9 +2319,9 @@
       "2600만원 이상 ~ 3400만원 미만",
       "분자생물학/생리학/미생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052091&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052091&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2165,9 +2333,9 @@
       "4800만원 이상 ~ 5500만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052075&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052075&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2179,9 +2347,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "분자생물학/생명과학 기타/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052067&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052067&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2193,9 +2361,9 @@
       "4000만원 이상 ~ 10000만원 미만",
       "분자생물학/생명과학 기타/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052065&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052065&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2207,9 +2375,9 @@
       "3200만원 이상 ~ 4200만원 미만",
       "분자생물학/종양의학/다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052056&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052056&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2221,9 +2389,9 @@
       "3700만원 이상 ~ 3800만원 미만",
       "신경의학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052051&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052051&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -2235,9 +2403,9 @@
       "3300만원 이상 ~ 4500만원 미만",
       "세포생물학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052018&article.offset=140&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10052018&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2251,7 +2419,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051972&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2265,7 +2433,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051971&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2279,7 +2447,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051969&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2293,7 +2461,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051968&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2307,7 +2475,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051965&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2321,7 +2489,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051964&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2335,21 +2503,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051942&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "석사",
-    "title": "주식회사 디피에이치_\"병리/조직검사 장비 학술 담당 모집\"",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "4200만원 이상 ~ 5000만원 미만",
-      "생명과학 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051919&article.offset=160&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2363,7 +2517,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051917&article.offset=160&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2375,9 +2529,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "종양의학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051883&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051883&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2389,9 +2543,9 @@
       "2600만원 이상 ~ 3500만원 미만",
       "바이오·의료융합 기타/분자생물학/치의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051866&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051866&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2403,9 +2557,9 @@
       "4000만원 이상 ~ 7000만원 미만",
       "유전 및 유전체의학/종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051851&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051851&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -2417,9 +2571,9 @@
       "2600만원 이상 ~ 2600만원 미만",
       "약학/다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051842&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051842&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2431,9 +2585,9 @@
       "2600만원 이상 ~ 3500만원 미만",
       "신경생물학/한의학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051818&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051818&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2445,9 +2599,9 @@
       "5000만원 이상 ~ 10000만원 미만",
       "의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051799&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051799&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2459,23 +2613,9 @@
       "8800만원 이상 ~ 9000만원 미만",
       "생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051781&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051781&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "(주)바이오솔루션 화장품원료 B2B 영업직 채용",
-    "period": "",
-    "tags": [
-      "정규직",
-      "경력사원",
-      "3500만원 이상 ~ 7000만원 미만",
-      "바이오소재"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051740&article.offset=160&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2487,9 +2627,9 @@
       "4500만원 이상 ~ 8500만원 미만",
       "바이오·의료융합 기타/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051735&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051735&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2501,9 +2641,9 @@
       "4500만원 이상 ~ 8500만원 미만",
       "바이오·의료융합 기타/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051734&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051734&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2515,9 +2655,9 @@
       "2700만원 이상 ~ 3000만원 미만",
       "면역학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051701&article.offset=160&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051701&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2531,7 +2671,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051683&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2545,7 +2685,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051682&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2559,7 +2699,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051665&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2573,7 +2713,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051654&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2587,7 +2727,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051621&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -2601,7 +2741,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051610&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2615,7 +2755,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051571&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2629,7 +2769,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051548&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2643,7 +2783,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051518&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2657,7 +2797,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051517&article.offset=180&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2669,9 +2809,9 @@
       "3000만원 이상 ~ 3900만원 미만",
       "의약학 기타/다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051452&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051452&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -2683,9 +2823,9 @@
       "2600만원 이상 ~ 3000만원 미만",
       "의약학 기타/의료기기"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051447&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051447&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2697,9 +2837,9 @@
       "3500만원 이상 ~ 4500만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051403&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051403&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2711,9 +2851,9 @@
       "6500만원 이상 ~ 9000만원 미만",
       "세포생물학/분자생물학/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051399&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051399&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2725,9 +2865,9 @@
       "11000만원 이상 ~ 11000만원 미만",
       "생리학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051395&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051395&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2739,9 +2879,9 @@
       "3600만원 이상 ~ 5000만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051392&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051392&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2753,9 +2893,9 @@
       "2600만원 이상 ~ 3600만원 미만",
       "기타/식품학/바이오센싱 및 나노바이오물질"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051369&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051369&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -2767,9 +2907,9 @@
       "3500만원 이상 ~ 10000만원 미만",
       "분자생물학/생화학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051350&article.offset=180&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051350&article.offset=200&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -2781,9 +2921,9 @@
       "3500만원 이상 ~ 10000만원 미만",
       "분자생물학/생화학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051346&article.offset=180&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051346&article.offset=200&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2795,9 +2935,9 @@
       "2800만원 이상 ~ 3500만원 미만",
       "분자생물학/세포생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051333&article.offset=180&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051333&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2811,7 +2951,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051165&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2825,7 +2965,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051163&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2839,7 +2979,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051144&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2853,7 +2993,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051114&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2867,7 +3007,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051094&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -2881,7 +3021,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051083&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2895,7 +3035,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051075&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2909,7 +3049,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051070&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2923,7 +3063,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051054&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -2937,7 +3077,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051052&article.offset=200&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2949,9 +3089,9 @@
       "4000만원 이상 ~ 8000만원 미만",
       "종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051049&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051049&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2963,9 +3103,9 @@
       "4000만원 이상 ~ 4000만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051031&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051031&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2977,9 +3117,9 @@
       "5000만원 이상 ~ 10000만원 미만",
       "다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051015&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051015&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -2991,9 +3131,9 @@
       "5000만원 이상 ~ 10000만원 미만",
       "의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051014&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10051014&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3005,9 +3145,9 @@
       "5000만원 이상 ~ 8000만원 미만",
       "세포생물학/바이오소재/재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050959&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050959&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3019,9 +3159,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "면역의학/세포생물학/인체시스템의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050916&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050916&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3033,9 +3173,9 @@
       "4700만원 이상 ~ 8000만원 미만",
       "세포생물학/면역학/약학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050908&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050908&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3047,9 +3187,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "바이오·의료융합 기타/의료기기/다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050906&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050906&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3061,9 +3201,9 @@
       "3600만원 이상 ~ 4500만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050876&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050876&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3075,9 +3215,9 @@
       "5000만원 이상 ~ 8000만원 미만",
       "면역의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050837&article.offset=200&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050837&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3091,7 +3231,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050807&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3105,7 +3245,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050786&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3119,7 +3259,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050785&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3133,7 +3273,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050774&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3147,7 +3287,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050771&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3161,7 +3301,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050754&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3175,7 +3315,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050727&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3189,7 +3329,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050676&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3203,7 +3343,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050644&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3217,7 +3357,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050619&article.offset=220&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3229,9 +3369,9 @@
       "3800만원 이상 ~ 4300만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050611&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050611&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3243,9 +3383,9 @@
       "4500만원 이상 ~ 6900만원 미만",
       "의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050603&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050603&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3257,9 +3397,9 @@
       "3500만원 이상 ~ 7000만원 미만",
       "바이오소재"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050586&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050586&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3271,9 +3411,9 @@
       "3200만원 이상 ~ 5000만원 미만",
       "세포생물학/바이오·의료융합 기타/바이오소재"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050584&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050584&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -3285,9 +3425,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "바이오소재/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050583&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050583&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3299,9 +3439,9 @@
       "3200만원 이상 ~ 6500만원 미만",
       "바이오소재"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050582&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050582&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3313,9 +3453,9 @@
       "3200만원 이상 ~ 4000만원 미만",
       "생물공학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050569&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050569&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3327,9 +3467,9 @@
       "4500만원 이상 ~ 6500만원 미만",
       "생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050555&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050555&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3341,9 +3481,9 @@
       "3000만원 이상 ~ 10000만원 미만",
       "의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050552&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050552&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3355,9 +3495,9 @@
       "3200만원 이상 ~ 5000만원 미만",
       "종양의학/미생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050549&article.offset=220&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050549&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3371,7 +3511,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050545&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3385,7 +3525,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050535&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3399,7 +3539,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050513&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3413,7 +3553,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050509&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3427,7 +3567,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050493&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3441,7 +3581,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050491&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3455,7 +3595,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050465&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3469,7 +3609,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050435&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3483,7 +3623,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050419&article.offset=240&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3497,7 +3637,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050418&article.offset=240&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3509,9 +3649,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "세포생물학/분자생물학/기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050417&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050417&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3523,9 +3663,9 @@
       "4800만원 이상 ~ 6000만원 미만",
       "세포생물학/약학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050363&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050363&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3537,9 +3677,9 @@
       "7000만원 이상 ~ 8000만원 미만",
       "세포생물학/분자생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050316&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050316&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3551,9 +3691,9 @@
       "4200만원 이상 ~ 4500만원 미만",
       "의료기기/다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050275&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050275&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3565,9 +3705,9 @@
       "3300만원 이상 ~ 5000만원 미만",
       "미생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050273&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050273&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3579,9 +3719,9 @@
       "3600만원 이상 ~ 4500만원 미만",
       "미생물학/식물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050272&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050272&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3593,9 +3733,9 @@
       "3000만원 이상 ~ 4500만원 미만",
       "분자생물학/노화/암생물학/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050264&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050264&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3607,9 +3747,9 @@
       "5000만원 이상 ~ 7000만원 미만",
       "뇌인지과학/신경의학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050207&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050207&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3621,9 +3761,9 @@
       "3200만원 이상 ~ 4200만원 미만",
       "신경생물학/분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050203&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050203&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3635,9 +3775,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050099&article.offset=240&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050099&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3651,7 +3791,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050087&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3665,7 +3805,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050080&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3679,7 +3819,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050028&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3693,7 +3833,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10050007&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3707,7 +3847,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049971&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3721,7 +3861,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049968&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3735,7 +3875,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049953&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3749,7 +3889,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049950&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3763,7 +3903,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049886&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3777,7 +3917,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049863&article.offset=260&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3789,9 +3929,9 @@
       "3600만원 이상 ~ 4000만원 미만",
       "바이오·의료융합 기타/생화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049862&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049862&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3803,9 +3943,9 @@
       "2600만원 이상 ~ 3100만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049849&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049849&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -3817,9 +3957,9 @@
       "3300만원 이상 ~ 6000만원 미만",
       "신경생물학/분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049844&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049844&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3831,9 +3971,9 @@
       "2600만원 이상 ~ 10000만원 미만",
       "약학/의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049842&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049842&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3845,9 +3985,9 @@
       "2600만원 이상 ~ 4000만원 미만",
       "세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049799&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049799&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3859,9 +3999,9 @@
       "3000만원 이상 ~ 5000만원 미만",
       "유전자발현/생물공학/바이오센싱 및 나노바이오물질"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049791&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049791&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3873,9 +4013,9 @@
       "3000만원 이상 ~ 5500만원 미만",
       "바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049766&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049766&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3887,9 +4027,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "치의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049718&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049718&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -3901,9 +4041,9 @@
       "4500만원 이상 ~ 5500만원 미만",
       "면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049696&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049696&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3915,9 +4055,9 @@
       "2600만원 이상 ~ 4300만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049679&article.offset=260&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049679&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학력무관",
@@ -3931,7 +4071,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049676&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3945,7 +4085,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049570&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3959,7 +4099,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049490&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3973,7 +4113,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049484&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -3987,7 +4127,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049469&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4001,7 +4141,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049420&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4015,7 +4155,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049419&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4029,7 +4169,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049346&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4043,7 +4183,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049345&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4057,7 +4197,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049266&article.offset=280&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4069,9 +4209,9 @@
       "6000만원 이상 ~ 6000만원 미만",
       "노화/암생물학/면역학/종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049249&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049249&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4083,9 +4223,9 @@
       "4000만원 이상 ~ 8000만원 미만",
       "세포생물학/바이오소재/응용생물화학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049231&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049231&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4097,9 +4237,9 @@
       "10500만원 이상 ~ 11200만원 미만",
       "신경생물학/유전 및 유전체의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049225&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049225&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4111,9 +4251,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "분자세포의학/인체시스템의학/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049194&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049194&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4125,9 +4265,9 @@
       "3500만원 이상 ~ 5500만원 미만",
       "분자세포의학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049148&article.offset=280&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049148&article.offset=300&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4139,9 +4279,9 @@
       "3800만원 이상 ~ 6000만원 미만",
       "발생생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049129&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049129&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4153,9 +4293,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "수의학/미생물학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049067&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049067&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4167,9 +4307,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "수의학/식품학/생명과학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049066&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10049066&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4181,9 +4321,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "세포생물학/신경의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048993&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048993&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4195,9 +4335,9 @@
       "3300만원 이상 ~ 3600만원 미만",
       "생명과학 기타/유전학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048980&article.offset=280&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048980&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4211,7 +4351,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048976&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4225,7 +4365,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048910&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4239,7 +4379,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048886&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4253,7 +4393,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048869&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4267,7 +4407,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048848&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -4281,7 +4421,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048847&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4295,7 +4435,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048805&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4309,7 +4449,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048804&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4323,7 +4463,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048681&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4337,7 +4477,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048659&article.offset=300&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -4349,9 +4489,9 @@
       "4400만원 이상 ~ 7000만원 미만",
       "의료기기"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048656&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048656&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4363,9 +4503,9 @@
       "3000만원 이상 ~ 7200만원 미만",
       "생물공학/바이오센싱 및 나노바이오물질"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048588&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048588&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4377,9 +4517,9 @@
       "3100만원 이상 ~ 8000만원 미만",
       "생명과학 기타/생물공학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048433&article.offset=300&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048433&article.offset=320&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4391,9 +4531,9 @@
       "5000만원 이상 ~ 7000만원 미만",
       "분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048422&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048422&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4405,9 +4545,9 @@
       "4800만원 이상 ~ 7200만원 미만",
       "응용의학/분자생물학/의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048413&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048413&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4419,9 +4559,9 @@
       "4000만원 이상 ~ 8000만원 미만",
       "바이오·의료융합 기타/생물공학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048381&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048381&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4433,23 +4573,9 @@
       "3000만원 이상 ~ 3200만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048345&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048345&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "[ (주)쎌바이오텍 ] 제약/바이오 QA - 의약품 QMS 담당자 채용(신입/경력)",
-    "period": "",
-    "tags": [
-      "정규직",
-      "신입사원",
-      "3000만원 이상 ~ 4000만원 미만",
-      "생화학/바이오·의료융합 기타/미생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048324&article.offset=300&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4461,9 +4587,9 @@
       "8000만원 이상 ~ 10000만원 미만",
       "유전학/생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048313&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048313&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4475,9 +4601,9 @@
       "3600만원 이상 ~ 7000만원 미만",
       "종양의학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048062&article.offset=300&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048062&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4491,7 +4617,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10048041&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4505,7 +4631,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047996&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4519,7 +4645,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047764&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -4533,7 +4659,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047691&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4547,7 +4673,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047649&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4561,7 +4687,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047602&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사수료",
@@ -4575,7 +4701,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047601&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4589,7 +4715,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047488&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4603,7 +4729,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047286&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4617,7 +4743,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047169&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4631,7 +4757,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047143&article.offset=320&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4643,9 +4769,9 @@
       "10000만원 이상 ~ 11700만원 미만",
       "세포생물학/유전학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047018&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10047018&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4657,23 +4783,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "세포생물학/재생의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046983&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046983&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "학사",
-    "title": "미즈메디병원 아이드림연구소 연구원 모집 공고(난임)",
-    "period": "",
-    "tags": [
-      "정규직",
-      "연구원",
-      "3000만원 이상 ~ 10000만원 미만",
-      "생명과학 기타"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046934&article.offset=320&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4685,9 +4797,9 @@
       "3000만원 이상 ~ 4000만원 미만",
       "간호학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046761&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046761&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4699,9 +4811,9 @@
       "8000만원 이상 ~ 11000만원 미만",
       "유전학/분자생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046608&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046608&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4713,9 +4825,9 @@
       "3000만원 이상 ~ 3500만원 미만",
       "분자생물학/종양의학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046588&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046588&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4727,9 +4839,9 @@
       "5000만원 이상 ~ 5500만원 미만",
       "미생물학/감염의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046483&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046483&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4741,9 +4853,9 @@
       "2600만원 이상 ~ 2600만원 미만",
       "세포생물학/미생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046375&article.offset=320&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046375&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4755,9 +4867,9 @@
       "3500만원 이상 ~ 6000만원 미만",
       "면역학/세포생물학/미생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046218&article.offset=320&articleLimit=20&type=premium",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046218&article.offset=340&articleLimit=20&type=premium",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4771,7 +4883,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046161&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4785,7 +4897,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046160&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4799,7 +4911,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046108&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4813,7 +4925,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10046000&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4827,7 +4939,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045921&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4841,7 +4953,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045847&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4855,7 +4967,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045813&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4869,7 +4981,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045805&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4883,7 +4995,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045803&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4897,7 +5009,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045657&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4911,7 +5023,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045638&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4925,7 +5037,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045565&article.offset=340&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4937,9 +5049,9 @@
       "9000만원 이상 ~ 11000만원 미만",
       "분자생물학/노화/암생물학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045508&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045508&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -4951,9 +5063,9 @@
       "4000만원 이상 ~ 6000만원 미만",
       "분자세포의학/종양의학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045507&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045507&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4965,9 +5077,9 @@
       "4500만원 이상 ~ 6000만원 미만",
       "바이오·의료융합 기타/신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045494&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045494&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -4979,9 +5091,9 @@
       "4000만원 이상 ~ 8000만원 미만",
       "신경의학/세포생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045478&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045478&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -4993,9 +5105,9 @@
       "3000만원 이상 ~ 3600만원 미만",
       "의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045475&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045475&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -5007,9 +5119,9 @@
       "2600만원 이상 ~ 2600만원 미만",
       "분자생물학/의약학 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045408&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045408&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5021,9 +5133,9 @@
       "9000만원 이상 ~ 9000만원 미만",
       "신경생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045407&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045407&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사수료",
@@ -5035,9 +5147,9 @@
       "3000만원 이상 ~ 6000만원 미만",
       "분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045200&article.offset=340&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045200&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사수료",
@@ -5051,7 +5163,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045159&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5065,7 +5177,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045086&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -5079,7 +5191,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045034&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5093,7 +5205,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10045001&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사수료",
@@ -5107,7 +5219,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044840&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5121,7 +5233,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044593&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5135,7 +5247,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044591&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -5149,7 +5261,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044543&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5163,7 +5275,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044353&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5177,7 +5289,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044281&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5191,7 +5303,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044267&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5205,7 +5317,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044251&article.offset=360&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5217,9 +5329,9 @@
       "6000만원 이상 ~ 8000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044093&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10044093&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5231,9 +5343,9 @@
       "4000만원 이상 ~ 7000만원 미만",
       "유전학/인체시스템의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043948&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043948&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -5245,9 +5357,9 @@
       "6000만원 이상 ~ 9500만원 미만",
       "유전학/분자생물학/발생생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043518&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043518&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5259,9 +5371,9 @@
       "4000만원 이상 ~ 5000만원 미만",
       "세포생물학/바이오소재/뇌인지과학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043458&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043458&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5273,9 +5385,9 @@
       "5000만원 이상 ~ 8000만원 미만",
       "기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043209&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043209&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5287,9 +5399,9 @@
       "4500만원 이상 ~ 10000만원 미만",
       "유전학/발생생물학/면역의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043191&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043191&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5301,9 +5413,9 @@
       "3000만원 이상 ~ 3500만원 미만",
       "세포생물학/생화학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043136&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10043136&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5315,23 +5427,9 @@
       "5000만원 이상 ~ 6000만원 미만",
       "면역의학/종양의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042975&article.offset=360&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042975&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
-  },
-  {
-    "company": "박사",
-    "title": "University of North Carolina (UNC) - Endothelial Metabolism Lab",
-    "period": "",
-    "tags": [
-      "계약직",
-      "PostDoc",
-      "8000만원 이상 ~ 9500만원 미만",
-      "세포생물학"
-    ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042775&article.offset=380&articleLimit=20",
-    "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5345,7 +5443,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042771&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5359,7 +5457,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042727&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사수료",
@@ -5373,7 +5471,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042717&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5387,7 +5485,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042096&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5401,7 +5499,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042095&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5415,7 +5513,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10042046&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "전문대졸",
@@ -5429,7 +5527,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041993&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5443,7 +5541,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041894&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5457,7 +5555,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041878&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "석사",
@@ -5471,7 +5569,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10041257&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5485,7 +5583,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040601&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5499,7 +5597,7 @@
     ],
     "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040456&article.offset=380&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -5511,9 +5609,9 @@
       "2600만원 이상 ~ 3100만원 미만",
       "인체시스템의학/생리학/다학제 융합/복합"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040453&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10040453&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5525,9 +5623,9 @@
       "4000만원 이상 ~ 8000만원 미만",
       "신경생물학/분자생물학/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039654&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10039654&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5539,9 +5637,9 @@
       "5500만원 이상 ~ 6000만원 미만",
       "면역의학/의약학 기타/바이오·의료융합 기타"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10036129&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10036129&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5553,9 +5651,9 @@
       "3000만원 이상 ~ 8000만원 미만",
       "신경의학/세포생물학/분자세포의학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10034468&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10034468&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "학사",
@@ -5567,9 +5665,9 @@
       "3800만원 이상 ~ 8000만원 미만",
       "발생생물학/동물자원학/세포생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10028646&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10028646&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   },
   {
     "company": "박사",
@@ -5581,8 +5679,8 @@
       "8000만원 이상 ~ 10000만원 미만",
       "세포생물학/종양의학/분자생물학"
     ],
-    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10014783&article.offset=380&articleLimit=20",
+    "link": "https://www.ibric.org/bric/biojob/recruit.do?mode=view&articleNo=10014783&article.offset=400&articleLimit=20",
     "source": "BRIC",
-    "crawled_at": "2026-09-10"
+    "crawled_at": "2026-09-11"
   }
 ]
